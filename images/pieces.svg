@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xml:space="preserve"
+   width="1024px"
+   height="1024px"
+   shape-rendering="geometricPrecision"
+   text-rendering="geometricPrecision"
+   image-rendering="optimizeQuality"
+   fill-rule="evenodd"
+   clip-rule="evenodd"
+   viewBox="0 0 10240 10240"
+   id="svg4338"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="pieces.svg"><metadata
+   id="metadata4351"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title>pieces icon</dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs4349" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1080"
+   inkscape:window-height="766"
+   id="namedview4347"
+   showgrid="false"
+   inkscape:zoom="0.23046875"
+   inkscape:cx="-841.76272"
+   inkscape:cy="512"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="svg4338" />
+	<title
+   id="title4340">pieces icon</title>
+	<desc
+   id="desc4342">pieces icon from the IconExperience.com O-Collection. Copyright by INCORS GmbH (www.incors.com).</desc>
+	<path
+   id="curve2"
+   fill="#252525"
+   d="M3520 7040c0,-353 287,-640 640,-640 144,0 277,47 383,128 106,79 256,4 256,-128l1 -960 960 -1c132,0 207,-150 128,-256 -80,-107 -127,-240 -127,-383 0,-353 287,-640 640,-640 353,0 640,287 640,640 0,144 -48,277 -128,383 -79,106 -4,256 128,256l1280 1 1 960c0,132 150,207 256,128 107,-80 240,-127 383,-127 353,0 640,287 640,640 0,353 -287,640 -640,640 -144,0 -277,-47 -383,-128 -106,-79 -256,-4 -256,128l-1 640 -1280 1c-132,0 -207,150 -128,256 80,107 127,240 127,383 0,353 -287,640 -640,640 -353,0 -640,-287 -640,-640 0,-144 47,-277 128,-383 79,-106 4,-256 -128,-256l-960 -1 -1 -640c0,-132 -150,-207 -256,-128 -107,80 -240,127 -383,127 -353,0 -640,-287 -640,-640z"
+   style="fill:#808080;fill-opacity:1" />
+	<path
+   id="curve1"
+   fill="#A1C057"
+   d="M8320 1280l1 1280c0,132 150,207 256,128 107,-80 240,-127 383,-127 353,0 640,287 640,640 0,353 -287,640 -640,640 -144,0 -277,-47 -383,-128 -106,-79 -256,-4 -256,128l-1 1280c-359,0 -692,0 -1015,0 35,-100 55,-208 55,-320 0,-530 -430,-960 -960,-960 -530,0 -960,430 -960,960 0,112 19,220 55,320 -223,0 -453,0 -695,0l-1 -1280c0,-132 -150,-207 -256,-128 -107,80 -240,127 -383,127 -353,0 -640,-287 -640,-640 0,-353 287,-640 640,-640 144,0 277,47 383,128 106,79 256,4 256,-128l1 -1280 3520 0z"
+   style="fill:#f6911f;fill-opacity:1" />
+	<path
+   id="curve0"
+   fill="#252525"
+   d="M4480 4105l0 1015 -1280 1c-132,0 -207,150 -128,256 80,107 127,240 127,383 0,353 -287,640 -640,640 -353,0 -640,-287 -640,-640 0,-144 47,-277 128,-383 79,-106 4,-256 -128,-256l-1280 -1 0 -3200c0,-353 287,-640 640,-640l3200 0 1 1015c-100,-36 -208,-55 -321,-55 -530,0 -960,430 -960,960 0,530 430,960 960,960 112,0 220,-19 320,-55z"
+   style="fill:#808080" />
+</svg>

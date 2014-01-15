@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xml:space="preserve"
+   width="1024px"
+   height="1024px"
+   shape-rendering="geometricPrecision"
+   text-rendering="geometricPrecision"
+   image-rendering="optimizeQuality"
+   fill-rule="evenodd"
+   clip-rule="evenodd"
+   viewBox="0 0 10240 10240"
+   id="svg3800"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="medical_bag.svg"><metadata
+   id="metadata3813"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title>medical_bag icon</dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs3811" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="946"
+   inkscape:window-height="795"
+   id="namedview3809"
+   showgrid="false"
+   inkscape:zoom="0.23046875"
+   inkscape:cx="408.37891"
+   inkscape:cy="512"
+   inkscape:window-x="776"
+   inkscape:window-y="100"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="svg3800" />
+	<title
+   id="title3802">medical_bag icon</title>
+	<desc
+   id="desc3804">medical_bag icon from the IconExperience.com O-Collection. Copyright by INCORS GmbH (www.incors.com).</desc>
+	<path
+   id="curve2"
+   fill="#A1C057"
+   d="M4480,3840 5760,3840 5760,5120 7040,5120 7040,6400 5760,6400 5760,7680 4480,7680 4480,6400 3200,6400 3200,5120 4480,5120z"
+   style="fill:#f6911f;fill-opacity:1" />
+	<path
+   id="curve1"
+   fill="#252525"
+   d="M1920 2560l6400 0c705,0 1280,575 1280,1280l0 3840c0,705 -575,1280 -1280,1280l-6400 0c-705,0 -1280,-575 -1280,-1280l0 -3840c0,-705 575,-1280 1280,-1280zm3200 640c1414,0 2560,1146 2560,2560 0,1414 -1146,2560 -2560,2560 -1414,0 -2560,-1146 -2560,-2560 0,-1414 1146,-2560 2560,-2560z"
+   style="fill:#808080;fill-opacity:1" />
+	<path
+   id="curve0"
+   fill="#252525"
+   d="M3840 640l2560 0c353,0 640,287 640,640l0 960 -640 0 0 -960 -2560 0 0 960 -640 0 0 -960c0,-353 287,-640 640,-640z"
+   style="fill:#808080;fill-opacity:1" />
+</svg>

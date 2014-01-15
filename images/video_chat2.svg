@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xml:space="preserve"
+   width="1024px"
+   height="1024px"
+   shape-rendering="geometricPrecision"
+   text-rendering="geometricPrecision"
+   image-rendering="optimizeQuality"
+   fill-rule="evenodd"
+   clip-rule="evenodd"
+   viewBox="0 0 10240 10240"
+   id="svg3761"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="video_chat2.svg"><metadata
+   id="metadata3775"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title>video_chat2 icon</dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs3773" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="895"
+   inkscape:window-height="978"
+   id="namedview3771"
+   showgrid="false"
+   inkscape:zoom="0.23046875"
+   inkscape:cx="512"
+   inkscape:cy="512"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="svg3761" />
+	<title
+   id="title3763">video_chat2 icon</title>
+	<desc
+   id="desc3765">video_chat2 icon from the IconExperience.com O-Collection. Copyright by INCORS GmbH (www.incors.com).</desc>
+	<path
+   id="curve3"
+   fill="#252525"
+   d="M3200 8960l640 0c176,0 320,-144 320,-320l0 -640 1920 0 0 640c0,176 144,320 320,320l640 0c176,0 320,144 320,320l0 320 -4480 0 0 -320c0,-176 144,-320 320,-320z"
+   style="fill:#808080;fill-opacity:1" />
+	<path
+   id="curve2"
+   fill="#A1C057"
+   d="M5130 1600c1060,0 1920,860 1920,1920 0,1060 -860,1920 -1920,1920 -1060,0 -1920,-860 -1920,-1920 0,-1060 860,-1920 1920,-1920z"
+   style="fill:#f6911f;fill-opacity:1" />
+	<path
+   id="curve1"
+   fill="#A1C057"
+   d="M2698 6720c204,-600 643,-859 1252,-1296 198,123 417,216 649,272 165,54 340,87 531,92 190,-5 365,-38 531,-92 233,-57 451,-149 649,-272 609,437 1048,696 1252,1296l-4864 0z"
+   style="fill:#f6911f;fill-opacity:1" />
+	<path
+   id="curve0"
+   fill="#252525"
+   d="M1280 640l7680 0c353,0 640,288 640,640l0 5760c0,352 -288,640 -640,640l-7680 0c-352,0 -640,-287 -640,-640l0 -5760c0,-353 287,-640 640,-640zm0 640l7680 0 0 5760 -7680 0 0 -5760z"
+   style="fill:#808080;fill-opacity:1" />
+</svg>
