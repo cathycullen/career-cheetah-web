@@ -28,6 +28,7 @@ list-style: none;
       clear: both;
       display: block;
       content: ''; }
+			/*
     .faq h1 {
 			margin: 1em 0 1em 0;
 			font-size: 2.12em;
@@ -38,6 +39,7 @@ list-style: none;
 			color: rgba(37, 37, 37, 1);
 			width: 980px;
 			}
+			*/
       @media screen and (max-width: 560px) {
         .faq h1 {
           font-size: 1.71429em; } }
@@ -83,7 +85,8 @@ color: rgba(37, 37, 37, 1);
         .faq ul .item .answer {
           line-height: 2em; }
         .faq ul .item a {
-          color: #1faeff; }
+          color: #f88e1;
+					font-weight: 600;					}
           .faq ul .item a:hover {
             text-decoration: underline; }
 	
@@ -152,7 +155,10 @@ bottom: 0;
 	height: 50%;
 }
 
-.maincontent		h1 {
+/*
+.maincontent
+*/
+		h1 {
 margin: 2em 0 1em 0;
 font-size: 2.6em;
 font-size: 4.7rem;
