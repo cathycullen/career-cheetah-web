@@ -245,7 +245,7 @@
 					</ul>
 				</div><!-- .follow -->
 				<div class="item" id="contact">
-				<form action="/contatti/contact" method="POST" novalidate="novalidate">
+				<form action="insert.php" method="POST" novalidate="novalidate">
 					<h2 style="padding-left: 40px;">Contact us</h2>
 					<ul>
 						<li class="field">
@@ -258,12 +258,12 @@
 							<input type="text" name="tel" placeholder="Your phone">
 						</li>
 						<li class="field">
-							<textarea class="required" name="message" placeholder="Your message"></textarea>
+							<textarea name="msg" placeholder="Your message"></textarea>
 						</li>
 						<li class="submit">
 							<input name="submit-name" type="hidden" value="Contact Form">
-							<button type="submit"><span>SEND</span> </i></button>
-							<!-- <i class="icon-arrow">-->
+							<button type="submit"><span>SEND</span> <i class="icon-arrow-right"></i></button>
+							
 						</li>
 					</ul>
 				</form>
