@@ -1,6 +1,6 @@
 body {
-	color: #252525;
-	font-family: "Open Sans";
+  color: #252525;
+  font-family: "Open Sans";
 }
 
 .scroll-panel {
@@ -30,11 +30,11 @@ margin-top: 1em;
 margin-right: 2em;
 }
 .navbar .nav {
-	margin-right: 0;
-	display: inline-block;
-	float: left;
-	margin-top: 1em;
-	margin-right: 2em;
+  margin-right: 0;
+  display: inline-block;
+  float: left;
+  margin-top: 1em;
+  margin-right: 2em;
 }
 
 .navbar .nav > li > a {
@@ -49,11 +49,11 @@ padding: 22px 20px;
 
 .navbar .nav > li  {
 color: #252525;
-	padding-left: 1em;
-	padding-right: 1em;
-	}
-	
-	.navbar .nav > li > a:hover, .navbar .nav > li > a:focus {
+  padding-left: 1em;
+  padding-right: 1em;
+  }
+  
+  .navbar .nav > li > a:hover, .navbar .nav > li > a:focus {
 color: orange;
 background-color: transparent;
 }

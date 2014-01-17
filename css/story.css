@@ -12,10 +12,10 @@
     margin-top: 10rem; }
   .story article {
     float: left;
-		/*
+    /*
     padding-top: 34px;
     padding-top: 3.4rem;
-		*/
+    */
     padding-bottom: 34px;
     padding-bottom: 3.4rem;
     width: 52.5%; }
@@ -29,22 +29,17 @@
     float: right; }
   .story:nth-child(even) figure {
     float: left; }
-		
-		
-		/*
-	.story h3 {
-		font-size: 4.7rem;
-		}
-		*/
-		
-		.story article p,
+    /*
+  .story h3 {
+    font-size: 4.7rem;
+    }
+    */
+    .story article p,
 article.intro {
   font-family: "Avenir LT W01 35 Light", Helvetica, Arial, sans-serif;
   font-size: 22px;
   font-size: 2.2rem;
   font-size: 2.6rem;
   line-height: 30px;
-	color: gray;
+  color: gray;
   line-height: 3rem; }
-	
-	

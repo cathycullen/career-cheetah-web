@@ -9,7 +9,7 @@
 .pricing-table {
   font-family: 'Open Sans', sans-serif;
   position: relative;
-	width: 50%;
+  width: 50%;
 }
 .pricing-table .title,
 .pricing-table .price,
@@ -667,11 +667,11 @@
 .carrot .alt .title,
 .carrot .alt-dark .title {
   background-color: #e67e22;
-	background-color: #f88e1e;
+  background-color: #f88e1e;
 }
 .carrot .button .btn {
   background-color: #e67e22;
-	background-color: #f88e1e;
+  background-color: #f88e1e;
   border: 1px solid #e67e22;
 }
 .carrot .button .btn:hover {
@@ -679,17 +679,17 @@
 }
 .carrot .button.btn-hover-alt .btn:hover {
   color: #e67e22;
-	color: #f88e1e;
+  color: #f88e1e;
   background-color: #ffffff;
 }
 .carrot .button.colored {
   background-color: #e67e22;
-	background-color: #f88e1e;
+  background-color: #f88e1e;
 }
 .carrot .button.colored:after {
   border-color: transparent;
   border-bottom-color: #e67e22;
-	border-bottom-color: #f88e1e;
+  border-bottom-color: #f88e1e;
 }
 .carrot.standout ul {
   border: 5px solid #e67e22;
