@@ -1,0 +1,36 @@
+.schedule {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 3em;
+  margin-bottom: 5em;
+}
+
+.maincontent .location {
+  font-weight: bold;
+}
+
+.schedule h4 {
+  text-align: left;
+}
+
+.schedule img {
+  width: 100%;
+}
+
+.schedule .left {
+  width: 25%;
+  float: left;
+  text-align: right;
+}
+
+.schedule .right {
+  width: 72%;
+  float: left;
+  margin-left: 3%;
+}
+
+.schedule .pricing-table {
+  width: 100%;
+  font-size: 1.3em;
+}
