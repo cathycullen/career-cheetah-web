@@ -3,6 +3,7 @@ margin: 0;
 min-height: 12em;
 text-align: center;
 background-color: #f88e1e;
+background-color: gray;
 padding-left: 3%;
 padding-right: 3%;
 padding-bottom: 2em;
@@ -12,8 +13,10 @@ padding-bottom: 2em;
   color: white;
   font-size: 40px;
   font-family: "Open Sans";
+	/*
   text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
-  margin-bottom: 1em;
+	*/
+  margin-bottom: .25em;
 }
 
 .testimonial-text {
@@ -23,12 +26,15 @@ padding-bottom: 2em;
   padding-right: 2%;
   font-weight: 800;
   font-size: 1.7em;
+  font-size: 1.4em;
   text-align: center;
   margin-top: 20px;
   color: white;
   min-height: 1.3392857142857142em;
   font-style: italic;
+	/*
   text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
+	*/
 }
 
 .testimonial-name {
