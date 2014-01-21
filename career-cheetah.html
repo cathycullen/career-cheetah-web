@@ -203,27 +203,29 @@
           </ul>
         </div><!-- .follow -->
         <div class="item" id="contact">
-        <form action="insert.php" method="POST" novalidate="novalidate">
-          <h2 style="padding-left: 40px;">Contact us</h2>
-          <ul>
-            <li class="field">
-              <input type="text" name="name" class="required" placeholder="Name">
-            </li>
-            <li class="field">
-              <input type="text" name="email" class="required email" placeholder="Email">
-            </li>
-            <li class="field">
-              <input type="text" name="tel" placeholder="Your phone">
-            </li>
-            <li class="field">
-              <textarea name="msg" placeholder="Your message"></textarea>
-            </li>
-            <li class="submit">
-              <input name="submit-name" type="hidden" value="Contact Form">
-              <button type="submit"><span>SEND</span> <i class="icon-arrow-right"></i></button>
-            </li>
-          </ul>
-        </form>
+          <form action="http://jma-glue.herokuapp.com/podio_contact" method="POST" novalidate="novalidate">
+            <input type="hidden" name="redirect" value="http://www.careercheetah.net/thank_you.html"/>
+            <input type="hidden" name="contact_db" value="cheetah"/>
+
+            <h2 style="padding-left: 40px;">Contact us</h2>
+            <ul>
+              <li class="field">
+                <input type="text" name="name" class="required" placeholder="Name">
+              </li>
+              <li class="field">
+                <input type="text" name="email" class="required email" placeholder="Email">
+              </li>
+              <li class="field">
+                <input type="text" name="phone" placeholder="Your phone">
+              </li>
+              <li class="field">
+                <textarea name="message" placeholder="Your message"></textarea>
+              </li>
+              <li class="submit">
+                <button type="submit"><span>SEND</span> <i class="icon-arrow-right"></i></button>
+              </li>
+            </ul>
+          </form>
         </div>
       </div>
     </div>
